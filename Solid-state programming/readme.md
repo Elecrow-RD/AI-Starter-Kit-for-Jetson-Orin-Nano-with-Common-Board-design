@@ -64,7 +64,7 @@ Make the following modifications:
 
 If the system image has been logged into before, you also need to modify the value of root below using the same method as above.
 
-![Uploading image.png…]()
+<img width="554" height="463" alt="image" src="https://github.com/user-attachments/assets/31d9f4ed-477c-4478-9001-a33003690c19" />
 
 
 Note: Double-check for any typos, as incorrect entries will prevent the system from booting up.
