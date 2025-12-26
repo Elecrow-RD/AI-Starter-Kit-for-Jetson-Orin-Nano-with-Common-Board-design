@@ -12,8 +12,6 @@
 
 <span style="color:red;">Note: Here, **Write** means to write the data of the img image file to the SD card, while Read means to read the data from the SD card into the **img** image file. Be sure not to mix up these two operations.</span>
 
-![image-20251226153132288](C:\Users\DNZJ-110\AppData\Roaming\Typora\typora-user-images\image-20251226153132288.png)
-
-
+<img width="497" height="348" alt="image" src="https://github.com/user-attachments/assets/2ea49691-bcdd-4ded-982c-66a4b939f23f" />
 
 6. After the image writing is successfully completed, eject the SD card, insert it into the Jetson device and power it on. The boot password is **elecrow**.
