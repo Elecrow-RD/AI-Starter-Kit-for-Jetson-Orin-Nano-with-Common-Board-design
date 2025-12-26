@@ -26,7 +26,7 @@ Required tool: SSD flasher enclosure (not provided separately, please prepare it
 
 <img width="554" height="350" alt="image" src="https://github.com/user-attachments/assets/2cf36828-8744-4a16-b020-c1989ddb567c" />
 
-<span style="color:red;">The above steps only flash the image file to your solid-state drive. Next, we need to modify the boot items, which requires the Ubuntu system. Please refer to the document [Method for Setting Up the Jetson Virtual Machine Environment in the materials and set up the Ubuntu environment](https://github.com/Elecrow-RD/AI-Starter-Kit-for-Jetson-Orin-Nano-with-Common-Board-design/blob/master/Solid-state%20programming/Method%20for%20Setting%20Up%20the%20Jetson%20Virtual%20Machine%20Environment_20251226153912.pdf) first.</span>
+<span style="color:red;">The above steps only flash the image file to your solid-state drive. Next, we need to modify the boot items, which requires the Ubuntu system. Please refer to the document [Method for Setting Up the Jetson Virtual Machine Environment in the materials and set up the Ubuntu environment](https://github.com/Elecrow-RD/AI-Starter-Kit-for-Jetson-Orin-Nano-with-Common-Board-design/blob/master/Solid-state%20programming/Method%20for%20Setting%20Up%20the%20Jetson%20Virtual%20Machine%20Environment.pdf) first.</span>
 
 #### 6. Insert the solid-state drive (SSD) into the Ubuntu system
 
