@@ -64,5 +64,13 @@ Make the following modifications:
 
 If the system image has been logged into before, you also need to modify the value of root below using the same method as above.
 
+![Uploading image.png…]()
 
 
+Note: Double-check for any typos, as incorrect entries will prevent the system from booting up.
+
+The PARTUUID you enter should not be enclosed in quotation marks!!!
+
+After confirming that everything is correct, press Ctrl+X, then enter y to save and exit.
+
+Install the solid-state drive (SSD) into the Jetson device and power it on. The boot password is elecrow.
