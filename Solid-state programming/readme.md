@@ -38,7 +38,7 @@ file you need to flash
 
 <span style="color:red;">The above steps only flash the image file to your solid-state drive. Next, we need to modify the boot items, which requires the Ubuntu system. Please refer to the document [Method for Setting Up the Jetson Virtual Machine Environment in the materials and set up the Ubuntu environment](https://github.com/Elecrow-RD/AI-Starter-Kit-for-Jetson-Orin-Nano-with-Common-Board-design/blob/master/Solid-state%20programming/Method%20for%20Setting%20Up%20the%20Jetson%20Virtual%20Machine%20Environment.pdf) first.</span>
 
-#### 6. Insert the solid-state drive (SSD) into the [ubuntu-20.04.5-desktop-amd64.iso](https://drive.google.com/file/d/1MkurS49AEeyPEmxsrp33nK1c9A4QCiWy/view?usp=sharing)  
+#### 6. Insert the solid-state drive (SSD) into the [ubuntu](https://drive.google.com/file/d/1MkurS49AEeyPEmxsrp33nK1c9A4QCiWy/view?usp=sharing)  
  system
 
 Enter the command lsblk to check the mounting status.
