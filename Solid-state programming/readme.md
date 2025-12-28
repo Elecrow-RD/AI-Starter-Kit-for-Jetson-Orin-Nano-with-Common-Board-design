@@ -11,7 +11,7 @@
 
 #### 1.Install the balenaEtcher software
 
-Click balenaEtcher-2.1.4.Setup.exe to start the installation, then launch the software after installation.
+Click [balenaEtcher-2.1.4.Setup.exe](https://drive.google.com/file/d/1NavGQ64HuEFqAR5dSG6KX7L7wS_5oAW3/view?usp=sharing) to start the installation, then launch the software after installation.
 
 <img width="554" height="352" alt="image" src="https://github.com/user-attachments/assets/089ad90e-2f86-4692-ac23-a14f3de0790d" />
 
@@ -23,7 +23,8 @@ Required tool: SSD flasher enclosure (not provided separately, please prepare it
 
 <img width="504" height="174" alt="image" src="https://github.com/user-attachments/assets/05799c57-76ce-48b0-b31b-a5980ad9b032" />
 
-#### 3. Follow the wizard to select the IMG file you need to flash
+#### 3. Follow the wizard to select the [jetson20151226](https://drive.google.com/file/d/1YCVNjQpiVTVwAN_LFtx5Ax_9Ty8sa4Qh/view?usp=sharing)
+file you need to flash
 
 <img width="554" height="352" alt="image" src="https://github.com/user-attachments/assets/c95418a7-fc3f-40a4-844c-983650f24ad4" />
 
@@ -37,7 +38,8 @@ Required tool: SSD flasher enclosure (not provided separately, please prepare it
 
 <span style="color:red;">The above steps only flash the image file to your solid-state drive. Next, we need to modify the boot items, which requires the Ubuntu system. Please refer to the document [Method for Setting Up the Jetson Virtual Machine Environment in the materials and set up the Ubuntu environment](https://github.com/Elecrow-RD/AI-Starter-Kit-for-Jetson-Orin-Nano-with-Common-Board-design/blob/master/Solid-state%20programming/Method%20for%20Setting%20Up%20the%20Jetson%20Virtual%20Machine%20Environment.pdf) first.</span>
 
-#### 6. Insert the solid-state drive (SSD) into the Ubuntu system
+#### 6. Insert the solid-state drive (SSD) into the [ubuntu-20.04.5-desktop-amd64.iso](https://drive.google.com/file/d/1MkurS49AEeyPEmxsrp33nK1c9A4QCiWy/view?usp=sharing)  
+ system
 
 Enter the command lsblk to check the mounting status.
 
