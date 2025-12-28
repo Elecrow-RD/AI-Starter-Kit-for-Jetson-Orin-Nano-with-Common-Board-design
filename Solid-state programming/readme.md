@@ -4,7 +4,7 @@
 
 [balenaEtcher](https://drive.google.com/file/d/1NavGQ64HuEFqAR5dSG6KX7L7wS_5oAW3/view?usp=sharing)
 
-[jetson20151226](https://drive.google.com/file/d/1YCVNjQpiVTVwAN_LFtx5Ax_9Ty8sa4Qh/view?usp=sharing)
+[jetson](https://drive.google.com/file/d/1YCVNjQpiVTVwAN_LFtx5Ax_9Ty8sa4Qh/view?usp=sharing)
 
 [ubuntu-20.04.5-desktop-amd64.iso](https://drive.google.com/file/d/1MkurS49AEeyPEmxsrp33nK1c9A4QCiWy/view?usp=sharing)  
 
@@ -23,7 +23,7 @@ Required tool: SSD flasher enclosure (not provided separately, please prepare it
 
 <img width="504" height="174" alt="image" src="https://github.com/user-attachments/assets/05799c57-76ce-48b0-b31b-a5980ad9b032" />
 
-#### 3. Follow the wizard to select the [jetson20151226](https://drive.google.com/file/d/1YCVNjQpiVTVwAN_LFtx5Ax_9Ty8sa4Qh/view?usp=sharing)
+#### 3. Follow the wizard to select the [jetson](https://drive.google.com/file/d/1YCVNjQpiVTVwAN_LFtx5Ax_9Ty8sa4Qh/view?usp=sharing)
 file you need to flash
 
 <img width="554" height="352" alt="image" src="https://github.com/user-attachments/assets/c95418a7-fc3f-40a4-844c-983650f24ad4" />
