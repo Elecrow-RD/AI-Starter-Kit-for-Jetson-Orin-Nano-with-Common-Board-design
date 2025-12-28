@@ -1,5 +1,14 @@
 ### Method for SSD Flashing and Booting
 
+#### Resource Links：
+
+[balenaEtcher](https://drive.google.com/file/d/1NavGQ64HuEFqAR5dSG6KX7L7wS_5oAW3/view?usp=sharing)
+
+[jetson20151226](https://drive.google.com/file/d/1YCVNjQpiVTVwAN_LFtx5Ax_9Ty8sa4Qh/view?usp=sharing)
+
+[ubuntu-20.04.5-desktop-amd64.iso](https://drive.google.com/file/d/1MkurS49AEeyPEmxsrp33nK1c9A4QCiWy/view?usp=sharing)  
+
+
 #### 1.Install the balenaEtcher software
 
 Click balenaEtcher-2.1.4.Setup.exe to start the installation, then launch the software after installation.
