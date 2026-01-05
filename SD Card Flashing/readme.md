@@ -2,7 +2,7 @@
 
 1. Prepare an empty 128GB SD card (if it is not formatted, you can use the **SDFormatter.exe** software for formatting).
 
-2. Download the image file to the local device, e.g., download the file **jetson20251216.img** to your local storage.
+2. Download the image file to the local device, e.g., download the file [**jetson20251216.img**](https://drive.google.com/file/d/1YCVNjQpiVTVwAN_LFtx5Ax_9Ty8sa4Qh/view?usp=drive_link) to your local storage.
 
 3. Launch the software **Win32DiskImager.exe** in the folder **ImagerWrite**.
 
