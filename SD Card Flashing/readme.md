@@ -1,10 +1,10 @@
 ### Method for Jetson SD Card Image Flashing
 
-1. Prepare an empty 128GB SD card (if it is not formatted, you can use the **SDFormatter.exe** software for formatting).
+1. Prepare an empty 128GB SD card (if it is not formatted, you can use the [**SDFormatter.exe**](https://drive.google.com/file/d/1pN5cSZbQZHQmvb9wjR47vu0StAuVXd5O/view?usp=sharing) software for formatting).
 
 2. Download the image file to the local device, e.g., download the file [**jetson20251216.img**](https://drive.google.com/file/d/1YCVNjQpiVTVwAN_LFtx5Ax_9Ty8sa4Qh/view?usp=drive_link) to your local storage.
 
-3. Launch the software **Win32DiskImager.exe** in the folder **ImagerWrite**.
+3. Launch the software **Win32DiskImager.exe** in the folder [**ImagerWrite**](https://drive.google.com/file/d/1lnKZQsdhGZiRf0bJAnSfnUjFY7_kO7Jc/view?usp=sharing).
 
 4. Select the image file that has just been downloaded to the local device, such as the file **jetson20251216.img**. The device will automatically select your SD card; if not, select it manually.
 
