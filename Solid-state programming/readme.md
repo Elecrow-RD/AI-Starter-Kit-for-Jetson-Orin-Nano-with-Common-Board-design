@@ -4,7 +4,7 @@
 
 [balenaEtcher](https://drive.google.com/file/d/1NavGQ64HuEFqAR5dSG6KX7L7wS_5oAW3/view?usp=sharing)
 
-[jetson](https://drive.google.com/file/d/1YCVNjQpiVTVwAN_LFtx5Ax_9Ty8sa4Qh/view?usp=sharing)
+[jetson](https://drive.google.com/file/d/1X4fg_Uw89tWvzhUIHTL9dtetr0ouBHCr/view?usp=sharing)
 
 [ubuntu-20.04.5-desktop-amd64.iso](https://drive.google.com/file/d/1MkurS49AEeyPEmxsrp33nK1c9A4QCiWy/view?usp=sharing)  
 
